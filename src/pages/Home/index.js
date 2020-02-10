@@ -45,7 +45,7 @@ export default function Home(props) {
   return (
     <div className="text-primary">
       <h1>
-        CTRL F
+        Verificação
       </h1>
 
       {!user.isLoaded ?
