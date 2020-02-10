@@ -1,4 +1,4 @@
-Steps for user:
+Steps for use:
 
 1 - npm create react-app login (yarn is also good)
 
