@@ -1,5 +1,3 @@
-# CTRL-F
-
 Steps for user:
 
 1 - npm create react-app ctrl-f (yarn is also good)
