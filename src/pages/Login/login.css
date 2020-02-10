@@ -1,0 +1,94 @@
+.container .title{
+    margin-bottom: 2%;
+}
+
+.container .title h1{
+    font-family: Montserrat-Black;
+}
+
+.container .title p{
+    font-size: 21px;
+}
+
+.box-login,
+.box-login > form {
+    width: 100%;
+    max-width: 500px;
+}
+
+.container h2{
+    font-size: 28px;
+    margin-bottom: 28px;
+}
+
+.container .form-login input{
+    margin-bottom: 22px;
+}
+
+.container .form-login input[type=email], .container .form-login input[type=password] {
+    background-color: #fff;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    width: 100%;
+    max-width: 500px;
+    height: 45px;
+    border: 2px solid #f6f6f6;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+  }
+  
+.container .form-login input[type=email]:focus , .container .form-login input[type=password]:focus{
+    background-color: rgb(245, 244, 244);
+    border-bottom: 2px solid #F3A712;
+  }
+  
+.container .form-login input[type=email]::placeholder, .container .form-login input[type=password]::placeholder{
+    font-size: 14px;
+    color: #999999;
+  }
+
+.container .box-login .form-login button{
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 45px;
+    margin-top: 8px;
+    margin-bottom: 34px;
+    font-family: Montserrat-Medium;
+    color: #fff;
+}
+
+.container .box-login .form-login button #text{
+    margin-left: 12px;
+}
+
+.container .box-login p{
+    font-size: 14px;
+}
+
+.registerLink{
+    text-decoration: none;
+    font-family: Montserrat-Medium;
+}
+
+.registerLink:hover{
+    text-decoration: none;
+    color: rgb(224, 155, 15); 
+}
+
+.copyright{
+    margin-top: 5%;
+    
+}
+
+.copyright p{
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    color: rgba(255, 255, 255, 0.5);
+}

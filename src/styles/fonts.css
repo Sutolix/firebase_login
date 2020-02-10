@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: local(Montserrat-Black), url(../assets/fonts/Monstserrat/Montserrat-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: local(Montserrat-Bold), url(../assets/fonts/Monstserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: local(Montserrat-Medium), url(../assets/fonts/Monstserrat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: local(Montserrat-Regular), url(../assets/fonts/Monstserrat/Montserrat-Regular.ttf);
+}
