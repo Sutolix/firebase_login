@@ -112,8 +112,8 @@ export default function Register(props) {
       <div className="container">
 
         <div className="title center">
-          <h1>CTRL F</h1>
-          <p className="yellow">v. PEANUT</p>
+          <h1>Login</h1>
+          <p className="yellow">v1.0</p>
         </div>
 
         <div className="welcone center">
