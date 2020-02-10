@@ -1,6 +1,6 @@
 Steps for user:
 
-1 - npm create react-app ctrl-f (yarn is also good)
+1 - npm create react-app login (yarn is also good)
 
 2 - npm install react-router-dom
 
@@ -10,12 +10,10 @@ Steps for user:
 
 5 - npm install --save react-spinner-material
 
-6 - Copy the repository files in ctrl-f folder
+6 - Copy the repository files in login folder
 
 7 - Import Bootstrap in public/index.html
 
-8- Copy yours configs of Firebase in src/services/firebase.js in const firebaseConfig.
+8 - Copy yours configs of Firebase in src/services/firebase.js in const firebaseConfig.
 
-9 - Start live server with npm start on terminal in folder ctrl-f
-
-10 - Start live server with npm start on terminal in folder ctrl-f
+9 - Start live server with npm start on terminal in folder login
