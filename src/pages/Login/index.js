@@ -42,8 +42,8 @@ export default function Login(props) {
     <div className="container min-vh-100 min-vw-100 d-flex center background-blue">
 
       <div className="title center">
-        <h1>CTRL F</h1>
-        <p className="yellow">v. PEANUT</p>
+        <h1>Login</h1>
+        <p className="yellow">v1.0</p>
       </div>
 
       <div className="box-login center">
