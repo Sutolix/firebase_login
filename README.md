@@ -14,6 +14,8 @@ Steps for user:
 
 7 - Import Bootstrap in public/index.html
 
-8 - Start live server with npm start on terminal in folder ctrl-f
+8- Copy yours configs of Firebase in src/services/firebase.js in const FirebaseConfig.
 
 9 - Start live server with npm start on terminal in folder ctrl-f
+
+10 - Start live server with npm start on terminal in folder ctrl-f
