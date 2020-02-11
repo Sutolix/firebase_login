@@ -1,4 +1,6 @@
-Steps for use:
+# Login and register with email verification
+
+### Steps for test:
 
 1 - npm create react-app login (yarn is also good)
 
