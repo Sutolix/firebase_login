@@ -1,4 +1,4 @@
-# Login and register with email verification
+# Login and register with email verification using React Js and Firebase
 
 ### Steps for test:
 
