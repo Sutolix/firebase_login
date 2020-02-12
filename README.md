@@ -12,10 +12,10 @@
 
 - `npm install --save react-spinner-material`
 
-- Copy the repository files in login folder
+- Copy the repository files in login folder.
 
-- Import Bootstrap in public/index.html
+- Import Bootstrap in public/index.html.
 
 - Copy yours configs of Firebase in src/services/firebase.js in const firebaseConfig.
 
-- Start live server with npm start on terminal in folder login
+- Start live server with npm start on terminal in folder login.
